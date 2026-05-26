@@ -8,5 +8,5 @@ import react from '@vitejs/plugin-react'
 // If you're deploying to username.github.io (no repo path), use base: '/'
 export default defineConfig({
   plugins: [react()],
-  base: '/ac-calculator/',
+  base: '/AC-Bill-Calculator/',
 })
